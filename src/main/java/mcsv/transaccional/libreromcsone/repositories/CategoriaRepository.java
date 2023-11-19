@@ -6,5 +6,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface CategoriaRepository extends JpaRepository<Categoria, String> {
-    Categoria findLibroByNombreContainingIgnoreCase(String nombreCategory);
+    Categoria findCategoriaByNombreContainingIgnoreCase(String nombreCategory);
 }
