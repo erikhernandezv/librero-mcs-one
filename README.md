@@ -1,9 +1,10 @@
 # librero-mcs-one
-Librero, demo project for Spring Boot in course Spring Boot
-
-# librero-mcs-one
 
 _This is an demo application for Cedesistemas course, to learn Microservices with Spring Boot. The application has the following functionalities. Search, save, uodate and get all books, etc._
+
+```
+- 📦 Mircoservicio Transaccional
+```
 
 ## Comenzando 🚀
 
