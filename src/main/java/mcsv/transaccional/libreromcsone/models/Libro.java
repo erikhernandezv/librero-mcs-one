@@ -16,7 +16,7 @@ import lombok.Setter;
 @Entity
 @Table(name = "libros")
 @Schema(description = "modelo que gestiona los libros del librero")
-public class Libros {
+public class Libro {
 
     @jakarta.persistence.Id
     @Schema(description = "Id unico del libro, usualmente una identificacion con tipo", example = "123456")
